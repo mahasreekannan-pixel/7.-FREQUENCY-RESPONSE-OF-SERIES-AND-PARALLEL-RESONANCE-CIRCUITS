@@ -63,6 +63,10 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
+**MARK SPLIT UP:**
+
+<img width="1600" height="1222" alt="image" src="https://github.com/user-attachments/assets/67d6728c-9313-4b25-b784-52e8a7437921" />
+
 
 **RESULT:**
 
