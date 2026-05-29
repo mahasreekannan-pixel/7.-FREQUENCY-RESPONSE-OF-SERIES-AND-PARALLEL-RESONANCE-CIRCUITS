@@ -65,7 +65,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **MARK SPLIT UP:**
 
-<img width="1600" height="1222" alt="image" src="https://github.com/user-attachments/assets/67d6728c-9313-4b25-b784-52e8a7437921" />
+<img width="1500" height="1600" alt="image" src="https://github.com/user-attachments/assets/07f794d8-4780-40de-b32a-dc633f7f493d" />
 
 
 **RESULT:**
